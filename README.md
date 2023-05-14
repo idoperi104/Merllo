@@ -1,4 +1,4 @@
-<img src="screenshots/merllo.png"/>
+![Merllo](screenshots/merllo.png)
 
 # Merllo
 
