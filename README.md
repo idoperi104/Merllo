@@ -25,6 +25,21 @@ You can access the deployed application at https://merllo-0m15.onrender.com/#/.
 - Search for tasks by title or description
 - Collaborate with other users on the same board
 
+## Technology Stack
+
+### Frontend
+- Vue
+- Vuex
+- Vue Router
+- Axios
+- Scss
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+- bcrypt
+
 ## Screenshots
 
 ### Landing Page
@@ -81,21 +96,6 @@ The login page allows users to log in to their Merllo account or create a new ac
 ## Mobile
 
 <img src="screenshots/12.png" width=25%/><img src="screenshots/13.png" width=25%/><img src="screenshots/14.png" width=25%/><img src="screenshots/15.png" width=25%/>
-
-## Technology Stack
-
-### Frontend
-- Vue
-- Vuex
-- Vue Router
-- Axios
-- Scss
-
-### Backend
-- Node.js
-- Express
-- MongoDB
-- bcrypt
 
 ## Getting Started
 
